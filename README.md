@@ -1,2 +1,2 @@
 # Hotel-Booking-Cancellation-Prediction
-Predicting hotel booking cancellations using Machine Learning and Business Analytics.
+End-to-End Machine Learning project to predict hotel booking cancellations and generate business insights using Python and Scikit-learn.
